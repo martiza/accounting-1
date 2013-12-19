@@ -1,0 +1,72 @@
+[
+	{
+		"id":"81",
+		"name":"masters",
+		"created_by":"1",
+		"modified_by":null,
+		"created":"2013-06-20 17:35:18",
+		"modified":null,
+		"deleted":"0",
+		"revision":null,
+		"flags":null,
+		"owned_by":null,
+		"version":"1.1.1",
+		"module_id":"353"
+	},
+	{
+		"id":"89",
+		"name":"crm_base",
+		"created_by":"1",
+		"modified_by":null,
+		"created":"2013-06-20 18:48:56",
+		"modified":null,
+		"deleted":"0",
+		"revision":null,
+		"flags":null,
+		"owned_by":null,
+		"version":"1.0.0",
+		"module_id":"353"
+	},
+	{
+		"id":"90",
+		"name":"access_controls",
+		"created_by":"1",
+		"modified_by":"1",
+		"created":"2013-06-25 10:47:23",
+		"modified":"2013-11-22 17:38:34",
+		"deleted":"0",
+		"revision":null,
+		"flags":null,
+		"owned_by":null,
+		"version":"1.0.3",
+		"module_id":"353"
+	},
+	{
+		"id":"91",
+		"name":"crm",
+		"created_by":"1",
+		"modified_by":"1",
+		"created":"2013-06-25 18:34:54",
+		"modified":"2013-11-22 17:38:34",
+		"deleted":"0",
+		"revision":null,
+		"flags":null,
+		"owned_by":null,
+		"version":"1.1.5",
+		"module_id":"353"
+	},
+	{
+		"id":"133",
+		"name":"flexflow",
+		"created_by":"102",
+		"modified_by":null,
+		"created":"2013-09-04 09:39:38",
+		"modified":null,
+		"deleted":"0",
+		"revision":null,
+		"flags":null,
+		"owned_by":null,
+		"version":"1.0.3",
+		"module_id":"353"
+	}
+]
